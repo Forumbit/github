@@ -3,4 +3,8 @@ www {
 	2h: lwwe,
 	mm: option.RAM.GGR.l,
 	d,
+	bb,
+	dd,
+	ll,
+	ww,
 }
