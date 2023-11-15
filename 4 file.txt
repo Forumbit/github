@@ -1,0 +1,6 @@
+www {
+	2w: helWW,
+	2h: lwwe,
+	mm: option.RAM.GGR.l,
+	d,
+}
